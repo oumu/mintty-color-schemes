@@ -14,6 +14,9 @@ Originall created by [chriskempson/base16](https://github.com/chriskempson/base1
 **base16-default-mod**  
 ![](https://github.com/oumu/mintty-color-schemes/raw/master/screenshot/base16-default-mod.png)
 
+**base16-default-mod-lighten**  
+![](https://github.com/oumu/mintty-color-schemes/raw/master/screenshot/base16-default-mod-lighten.png)
+
 **base16-solarized-mod**  
 ![](https://github.com/oumu/mintty-color-schemes/raw/master/screenshot/base16-solarized-mod.png)
 
