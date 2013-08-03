@@ -9,12 +9,12 @@ Merge *.minttyrc into your ~/.minttyrc
 
 ### Preview: Base16 for MinTTY ###
 
-Originall created by [chriskempson/base16](https://github.com/chriskempson/base16) and [geoffstokes/base16-mintty](https://github.com/geoffstokes/base16-mintty). I modified the Bold Green, Yellow, Blue, Magenta, Cyan to make them more readable on the dark background.
+Originall created by [chriskempson/base16](https://github.com/chriskempson/base16) and [geoffstokes/base16-mintty](https://github.com/geoffstokes/base16-mintty). I modified (darkened) the Bold Green, Yellow, Blue, Magenta, Cyan to make them more readable on the dark background.
 
 **base16-default-mod**  
 ![](https://github.com/oumu/mintty-color-schemes/raw/master/screenshot/base16-default-mod.png)
 
-**base16-default-mod-lighten**  
+**base16-default-mod-lighten**  (Recommended)
 ![](https://github.com/oumu/mintty-color-schemes/raw/master/screenshot/base16-default-mod-lighten.png)
 
 **base16-solarized-mod**  
